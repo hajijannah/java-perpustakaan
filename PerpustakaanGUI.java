@@ -8,7 +8,7 @@ public class PerpustakaanGUI {
     private JFrame frame;
     private JTextArea textArea;
     private Connection connection;
-
+    // added comment
     public PerpustakaanGUI() {
         // Koneksi ke database
         connectToDatabase();
